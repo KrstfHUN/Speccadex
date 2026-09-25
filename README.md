@@ -52,7 +52,7 @@ A platform három felületen érhető el — webes, asztali és mobil alkalmazá
 | Vincze Dominik | Asztali alkalmazás (WPF) | WPF, C#/.NET |
 | Papp-hegyi Ákos | Mobil alkalmazás (Kotlin) | Kotlin, Android fejlesztés |
 
-Az adatbázis tervezése és fejlesztése közös munkával történik.
+Az adatbázis illetve a backend tervezése és fejlesztése közös munkával történik.
 
 ## Projekt struktúra
 
