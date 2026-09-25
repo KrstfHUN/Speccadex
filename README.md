@@ -65,30 +65,6 @@ speccadex/
 └── database/       # Közös adatbázis-séma / migrációk
 ```
 
-## Fejlesztői környezet beállítása
-
-> A pontos lépések a fejlesztés előrehaladtával frissülnek.
-
-### Előfeltételek
-- Node.js (LTS)
-- PostgreSQL
-- .NET SDK (asztali alkalmazáshoz)
-- Android Studio / Kotlin toolchain (mobil alkalmazáshoz)
-
-### Web backend indítása
-```bash
-cd api
-npm install
-npm run start:dev
-```
-
-### Web frontend indítása
-```bash
-cd web
-npm install
-npm run dev
-```
-
 ## Licenc
 
 Ez a projekt oktatási célból készül.
