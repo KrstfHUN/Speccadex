@@ -1,0 +1,17 @@
+# Secrets / environment files
+.env
+.env.*
+!.env.example
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Dependencies and build output (common to several stacks)
+node_modules/
+dist/
+build/
